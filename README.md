@@ -2,6 +2,8 @@
 Getting used to GitHub
 This is a sample commit 
 
+#another one 
+
 
 Why did the extra things not show up?
 
